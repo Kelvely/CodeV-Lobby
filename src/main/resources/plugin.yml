@@ -1,0 +1,6 @@
+name: CodeV Lobby
+version: ${project.version}
+main: net.codevmc.lobby.Lobby
+depend: [PowerNBT]
+authors: [CoDevs]
+description: Lobby of CodeV server, consist of matchmake requesting, marketing, etc. functionalities.

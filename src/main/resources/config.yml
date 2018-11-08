@@ -1,0 +1,7 @@
+cluster:
+    clusterName: "codev-cluster"
+    nodeName: "node-0"
+
+database:
+    host: "localhost"
+    port: "
